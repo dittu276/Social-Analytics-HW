@@ -1,2 +1,2 @@
 # Social-Analytics-HW
-Sentiment analysis for new channel
+Sentiment analysis for news channels
